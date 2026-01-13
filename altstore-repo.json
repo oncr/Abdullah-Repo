@@ -1,0 +1,27 @@
+{
+  "name": "Abdullah Repo",
+  "subtitle": "GitHub-based iOS apps",
+  "iconURL": "https://raw.githubusercontent.com/YangJiiii/EnsWilde/main/Assets/icon.png",
+  "website": "https://github.com/YangJiiii/EnsWilde",
+  "tintColor": "#007aff",
+  "apps": [
+    {
+      "name": "EnsWilde",
+      "bundleIdentifier": "com.yangjiii.EnsWilde.app",
+      "developerName": "YangJiiii",
+      "subtitle": "EnsWilde iOS App",
+      "localizedDescription": "EnsWilde official iOS application",
+      "iconURL": "https://raw.githubusercontent.com/YangJiiii/EnsWilde/main/Assets/icon.png",
+      "category": "utilities",
+      "versions": [
+        {
+          "version": "2.1",
+          "date": "2024-01-01T00:00:00Z",
+          "localizedDescription": "Latest release",
+          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde2.1/EnsWilde.ipa",
+          "size": 0
+        }
+      ]
+    }
+  ]
+}
