@@ -1,0 +1,26 @@
+{
+  "id": "abdullah-repo",
+  "source_id": "com.abdullah.repo",
+  "name": "Abdullah Repo",
+  "subtitle": "Public iOS App Repository",
+  "description": "EnsWilde app for SideStore and Feather",
+  "icon": "https://raw.githubusercontent.com/YangJiiii/EnsWilde/main/Assets/icon.png",
+  "website": "https://github.com/YangJiiii/EnsWilde",
+  "tint": "#007aff",
+  "apps": [
+    {
+      "id": "com.yangjiii.EnsWilde.app",
+      "bundle_id": "com.yangjiii.EnsWilde.app",
+      "name": "EnsWilde",
+      "developer": "YangJiiii",
+      "subtitle": "EnsWilde iOS App",
+      "localized_description": "EnsWilde official iOS application",
+      "tweaked": false,
+      "version": "2.1",
+      "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde2.1/EnsWilde.ipa",
+      "size": 0,
+      "minOSVersion": "16.0",
+      "screenshots": []
+    }
+  ]
+}
