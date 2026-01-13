@@ -1,34 +1,27 @@
 {
-  "name": "EnsWilde Repository",
-  "identifier": "com.yangjiii.enswilde.repo",
-  "subtitle": "Open-source iOS utility app repository",
-  "iconURL": "https://raw.githubusercontent.com/YangJiiii/EnsWilde/main/Assets/icon.png",
-  "website": "https://github.com/YangJiiii/EnsWilde",
-  "tintColor": "#7B61FF",
   "apps": [
     {
-      "name": "EnsWilde",
+      "beta": false,
       "bundleIdentifier": "com.yangjiii.EnsWilde.app",
       "developerName": "YangJiiii",
-      "subtitle": "itunesstored & bookassetd sbx escape",
-      "localizedDescription": "EnsWilde is an open-source iOS utility application providing system-level tweaks and tools through a clean and modern interface.",
-      "iconURL": "https://raw.githubusercontent.com/YangJiiii/EnsWilde/main/Assets/icon.png",
-      "screenshots": [
-        "https://raw.githubusercontent.com/YangJiiii/EnsWilde/main/Assets/screenshot1.png",
-        "https://raw.githubusercontent.com/YangJiiii/EnsWilde/main/Assets/screenshot2.png",
-        "https://raw.githubusercontent.com/YangJiiii/EnsWilde/main/Assets/screenshot3.png",
-        "https://raw.githubusercontent.com/YangJiiii/EnsWilde/main/Assets/screenshot4.png"
+      "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde2.1/EnsWilde.ipa",
+      "iconURL": "https://i.postimg.cc/W1HB10vL/Ens-Wilde-Icon.png",
+      "localizedDescription": "",
+      "name": "EnsEilde",
+      "screenshotURLs": [
+        "https://i.postimg.cc/1SL7y3Q2/IMG-3796.png?dl=1",
+        "https://i.postimg.cc/9Fzw7j7v/IMG_3797.png"
       ],
-      "tintColor": "#7B61FF",
-      "versions": [
-        {
-          "version": "2.1",
-          "date": "2025-01-01T00:00:00Z",
-          "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde2.1/EnsWilde.ipa",
-          "size": 0,
-          "minOSVersion": "18.0"
-        }
-      ]
+      "size": 1260000,
+      "subtitle": "",
+      "tintColor": "0274",
+      "version": "2.1",
+      "versionDate": "",
+      "versionDescription": "Apple Wallet\n\nAdded support for custom background images for Apple Wallet passes\nPasscode Theme\n\nAdded the ability to change the passcode unlock screen image"
     }
-  ]
+  ],
+  "identifier": "com.example.source",
+  "name": "Abdullah Repo",
+  "news": [],
+  "userInfo": {}
 }
