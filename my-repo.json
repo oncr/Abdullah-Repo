@@ -1,0 +1,48 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.jbdotparty.sparseboxplus.app",
+      "developerName": "lunginspector",
+      "downloadURL": "https://github.com/jailbreakdotparty/SparseBoxPlus/releases/download/0.1/SparseBoxPlus_v0.1.ipa",
+      "iconURL": "https://i.postimg.cc/ryYWwpHq/Sparse-Box-Icon.png",
+      "localizedDescription": "SparseBox, but with a proper UI. iOS 16.0 - iOS 26.1 (and 26.2 beta 1).",
+      "name": "SparseBox+",
+      "screenshotURLs": [
+        "https://i.postimg.cc/SKNCKzmK/IMG_3804.png",
+        "https://i.postimg.cc/nLcBLQnX/IMG_3805.png"
+      ],
+      "size": 5800000,
+      "subtitle": "SparseBox, but with a proper UI.",
+      "tintColor": "0274FF",
+      "version": "0.1",
+      "versionDate": "2026-1-13",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.yangjiii.EnsWilde.app",
+      "developerName": "YangJiiii",
+      "downloadURL": "https://github.com/YangJiiii/EnsWilde/releases/download/EnsWilde2.1/EnsWilde.ipa",
+      "iconURL": "https://i.postimg.cc/W1HB10vL/Ens-Wilde-Icon.png",
+      "localizedDescription": "EnsWilde (Mobile)\nEnsWilde is a tool utilizing itunesstored & bookassetd exploits, designed for iPhone and iPad running the latest iOS Version 26.2b1.",
+      "name": "EnsWilde",
+      "screenshotURLs": [
+        "https://i.postimg.cc/1tb9bbW8/IMG_3796.png",
+        "https://i.postimg.cc/3RzKzzLD/IMG_3797.png",
+        "https://i.postimg.cc/4djJjj8c/IMG_3798.png",
+        "https://i.postimg.cc/2yvzYTJq/IMG_3799.png"
+      ],
+      "size": 13000000,
+      "subtitle": "",
+      "tintColor": "0286FF",
+      "version": "2.1",
+      "versionDate": "2026-1-13",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Abdullah Repo",
+  "news": [],
+  "userInfo": {}
+}
