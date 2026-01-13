@@ -16,7 +16,7 @@
       "subtitle": "",
       "tintColor": "0274FF",
       "version": "2.1",
-      "versionDate": "",
+      "versionDate": "2026-1-13",
       "versionDescription": "Apple Wallet\n\nAdded support for custom background images for Apple Wallet passes\nPasscode Theme\n\nAdded the ability to change the passcode unlock screen image"
     }
   ],
