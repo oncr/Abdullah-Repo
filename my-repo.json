@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "twitter.nowesr1.snapstash.app",
+      "developerName": "nowesr1",
+      "downloadURL": "https://github.com/nowesr1/SnapStash-iOS/releases/download/snapchat/SnapStash_V1.0.ipa",
+      "iconURL": "https://i.postimg.cc/LskddvTd/Snap-Stash-Icon.png",
+      "localizedDescription": "المميزات\n\nاستيراد ملف JSON الخاص بـ Snapchat My Data.\nاستخراج روابط/محتوى الذكريات وحفظها داخل التطبيق.\nتنظيم وحفظ المحتوى لتسهيل الرجوع له لاحقًا.",
+      "name": "SnapStash",
+      "screenshotURLs": [
+        "https://i.postimg.cc/tCF8n2KZ/IMG-3814.png"
+      ],
+      "size": 1000000,
+      "subtitle": "Save and manage your Snapchat Memories!",
+      "tintColor": "018084",
+      "version": "1.0",
+      "versionDate": "2026-1-6",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.jbdotparty.PancakeStore.app",
       "developerName": "lunginspector",
       "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.0.1/PancakeStore_v1.0.1.ipa",
