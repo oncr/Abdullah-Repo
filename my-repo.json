@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.jbdotparty.PancakeStore.app",
+      "developerName": "lunginspector",
+      "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.0.1/PancakeStore_v1.0.1.ipa",
+      "iconURL": "https://i.postimg.cc/vHj6yHmC/Pancake-Store-Icon.png",
+      "localizedDescription": "MuffinStore Jailed, but with a proper UI. iOS 16.4 and later.",
+      "name": "PancakeStore",
+      "screenshotURLs": [
+        "https://i.postimg.cc/9fBMDWWZ/IMG-3811.png"
+      ],
+      "size": 1100000,
+      "subtitle": "MuffinStore Jailed, but with a proper UI.",
+      "tintColor": "018084",
+      "version": "1.0.1",
+      "versionDate": "2025-12-26",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.prostoreios.prostore.app",
       "developerName": "ProStore-iOS",
       "downloadURL": "https://github.com/ProStore-iOS/ProStore/releases/download/v1.3.0/com.prostoreios.prostore-unsigned-ios.ipa",
@@ -52,7 +70,7 @@
         "https://i.postimg.cc/2yvzYTJq/IMG_3799.png"
       ],
       "size": 13000000,
-      "subtitle": "",
+      "subtitle": "EnsWilde (Mobile)",
       "tintColor": "0286FF",
       "version": "2.1",
       "versionDate": "2026-1-13",
@@ -61,7 +79,7 @@
   ],
   "identifier": "com.example.source",
   "name": "Abdullah Repo",
-  "iconURL": "https://i.postimg.cc/66YdDcKD/IMG-2953.jpg",
   "news": [],
+  "iconURL": "https://i.postimg.cc/66YdDcKD/IMG-2953.jpg",
   "userInfo": {}
 }
