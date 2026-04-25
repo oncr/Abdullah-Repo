@@ -1,0 +1,26 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.roooot.lara",
+      "developerName": "rooootdev",
+      "downloadURL": "https://github.com/rooootdev/lara/releases/download/latest/lara.ipa",
+      "iconURL": "https://raw.githubusercontent.com/rooootdev/lara/refs/heads/main/lara.png",
+      "localizedDescription": "lara will at its absolute best only ever support versions up to iOS 26.0.1/iOS 18.7.1. the exploit was patched after those versions.\n\ncurrently tested on iOS 17.1 - 26.0.1, up to iOS 18.7.1 only on the 18.7 series.",
+      "name": "lara",
+      "screenshotURLs": [
+        "/"
+      ],
+      "size": 3450675,
+      "subtitle": "WIP darksword kexploit implement",
+      "tintColor": "5CA399",
+      "version": "1.2",
+      "versionDate": "2026-04-24",
+      "versionDescription": ""
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "A",
+  "news": [],
+  "userInfo": {}
+}
