@@ -2,6 +2,24 @@
   "apps": [
     {
       "beta": false,
+      "bundleIdentifier": "com.kdt.LiveContainer2",
+      "developerName": "LiveContainer Team",
+      "downloadURL": "https://github.com/oncr/Abdullah-Repo/releases/download/v3.7.5/LiveContainer2.ipa",
+      "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/refs/heads/main/Resources/AppIconGrey76x76%402x%7Eipad.png",
+      "localizedDescription": "Run iOS apps without actually installing them!",
+      "name": "LiveContainer2",
+      "screenshotURLs": [
+        "/"
+      ],
+      "size": 4623860,
+      "subtitle": "Run iOS apps without actually installing them!",
+      "tintColor": "808080",
+      "version": "3.7.5",
+      "versionDate": "2026-04-18",
+      "versionDescription": ""
+    },
+    {
+      "beta": false,
       "bundleIdentifier": "com.roooot.lara",
       "developerName": "rooootdev",
       "downloadURL": "https://github.com/rooootdev/lara/releases/download/latest/lara.ipa",
@@ -13,12 +31,13 @@
       ],
       "size": 3450675,
       "subtitle": "WIP darksword kexploit implement",
-      "tintColor": "5CA399",
+      "tintColor": "808080",
       "version": "1.2",
       "versionDate": "2026-04-24",
       "versionDescription": ""
     }
   ],
+  "iconURL": "https://i.postimg.cc/66YdDcKD/IMG-2953.jpg",
   "identifier": "com.example.source",
   "name": "A",
   "news": [],
